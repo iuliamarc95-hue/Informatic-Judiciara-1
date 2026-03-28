@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Structura CJUE</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>Structura CJUE</h1>
+    <nav>
+        <a href="index.html">Acasă</a>
+        <a href="structura.html">Structura</a>
+        <a href="roluri.html">Roluri</a>
+        <a href="harta.html">Hartă</a>
+        <a href="contact.html">Contact/Decont</a>
+    </nav>
+</header>
+
+<main>
+    <h2>Organele CJUE</h2>
+    <ul>
+        <li>Curtea de Justiție</li>
+        <li>Tribunalul</li>
+        <li>Advocatul General</li>
+    </ul>
+    <img src="images/organe_cjue.jpg" alt="Structura CJUE">
+</main>
+
+<footer>
+    <p>&copy; 2026 Structura CJUE</p>
+</footer>
+</body>
+</html>
