@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Roluri CJUE</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>Roluri și funcții ale CJUE</h1>
+    <nav>
+        <a href="index.html">Acasă</a>
+        <a href="structura.html">Structura</a>
+        <a href="roluri.html">Roluri</a>
+        <a href="harta.html">Hartă</a>
+        <a href="contact.html">Contact/Decont</a>
+    </nav>
+</header>
+
+<main>
+<h2>Rolurile principale</h2>
+<p>Curtea de Justiție interpretează legislația UE și asigură respectarea tratatelor.</p>
+<p>Tribunalul judecă cauze civile și comerciale între UE și persoane/jurisdicții naționale.</p>
+<p>Advocatul General oferă opinii independente pentru ajuta instanța să ia decizii.</p>
+</main>
+
+<footer>
+<p>&copy; 2026 Structura CJUE</p>
+</footer>
+</body>
+</html>
