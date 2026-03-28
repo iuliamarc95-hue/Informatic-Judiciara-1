@@ -1,9 +1,0 @@
-body { font-family: Arial, sans-serif; margin:0; padding:0; }
-header { background-color: #0044cc; color:white; padding:10px 20px; }
-header h1 { margin:0; }
-nav a { color:white; margin:0 10px; text-decoration:none; }
-main { padding:20px; }
-footer { text-align:center; background-color:#eee; padding:10px; margin-top:20px; }
-img { max-width:100%; height:auto; }
-form input, form textarea { width:100%; padding:5px; margin:5px 0; }
-form input[type="submit"] { width:auto; background-color:#0044cc; color:white; border:none; padding:10px 20px; cursor:pointer; }
